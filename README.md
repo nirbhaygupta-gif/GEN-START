@@ -28,12 +28,13 @@ It also supports manual mode operation, WiFi control, and static IP configuratio
 
 ## 📂 Repository Structure
 ```
-esp32-generator-controller/
+GEN-START/
 │── src/
-│   └── generator_controller.ino   # Main Arduino code
+│   └── gen-start.ino   # Main Arduino code
 │── schematic/
-│   └── esp32_generator_schematic.png  # Circuit diagram
+│   └── schematic.png  # Circuit diagram
 │── README.md
+|__ FINAL-OUTPUT.PNG
 ```
 
 
